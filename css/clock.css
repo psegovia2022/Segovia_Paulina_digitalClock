@@ -1,0 +1,31 @@
+div {
+    padding: 1em;
+    margin: auto;
+    width: 300px;
+    font-size: 3em;
+    border: solid 3px rgba(42, 231, 244, 0.4);
+    border-radius: 50px;
+    box-shadow: 
+        2px 2px 10px rgb(66, 152, 214),
+        4px 4px 15px rgb(15, 42, 115),
+        6px 6px 10px rgb(15,60,200) ;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
